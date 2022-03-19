@@ -697,6 +697,30 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 10rem;
 }
 
+.mr-6{
+  margin-right: 1.5rem;
+}
+
+.mr-5{
+  margin-right: 1.25rem;
+}
+
+.mr-8{
+  margin-right: 2rem;
+}
+
+.mr-9{
+  margin-right: 2.25rem;
+}
+
+.mr-10{
+  margin-right: 2.5rem;
+}
+
+.mr-16{
+  margin-right: 4rem;
+}
+
 .flex{
   display: flex;
 }
@@ -745,6 +769,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 15rem;
 }
 
+.h-16{
+  height: 4rem;
+}
+
 .w-1\/2{
   width: 50%;
 }
@@ -787,6 +815,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-2\/5{
   width: 40%;
+}
+
+.flex-auto{
+  flex: 1 1 auto;
 }
 
 .-translate-y-8{
@@ -859,6 +891,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   flex-wrap: wrap;
 }
 
+.content-center{
+  align-content: center;
+}
+
 .content-around{
   align-content: space-around;
 }
@@ -877,6 +913,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .items-stretch{
   align-items: stretch;
+}
+
+.justify-end{
+  justify-content: flex-end;
 }
 
 .justify-center{
@@ -1001,6 +1041,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding: 1rem;
 }
 
+.p-1{
+  padding: 0.25rem;
+}
+
 .px-8{
   padding-left: 2rem;
   padding-right: 2rem;
@@ -1073,6 +1117,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-center{
   text-align: center;
+}
+
+.text-right{
+  text-align: right;
 }
 
 .text-justify{
